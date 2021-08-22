@@ -1,8 +1,12 @@
-Tezotube
-web3 is the futer of content, Powered by tezos.
+## Tezotube
+
+Web3 is the futer of content, Powered by tezos.
 
 [![](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE) [![](https://img.shields.io/github/v/release/tqtezos/minter)](https://github.com/tqtezos/minter)
 
+## motivation 
+
+The motivation for this sight is simple. Online content is becoming hyper centralized. Creators entire livelihoods are at the whim of a few people. 
 ## OpenMinter
 
 OpenMinter is dApp framework for enabling the creation and collection
